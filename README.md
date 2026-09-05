@@ -59,7 +59,7 @@
 ## ⏱️ WakaTime [WIP]
 
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=santoDevX)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@561ece04-1176-49d2-a022-b8c0129d107b)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 <!--END_SECTION:waka-->
 
 ## 🎓 Formação
