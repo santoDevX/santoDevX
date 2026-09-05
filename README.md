@@ -1,33 +1,76 @@
-## Olá, sou Engenheiro de Software e me chamo Anderson Santo 😄
-<div>
-  <a href="https://github.com/santo-ti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santo-ti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santo-ti&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<p><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,html,css,js,ts,react,java,spring,kotlin,nodejs,nestjs&perline=7" />
-  </a>
-</p>
+# Olá, eu sou o Santo 👋
 
-##
+**Arquiteto de Software** · **Tech Lead** · **Engenheiro de Software Backend**
 
-<div> 
-  <a href = "mailto:kalangoti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andersonsantoti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" target="_blank"></a> 
-</div>
+- 12+ anos construindo e evoluindo sistemas de alta complexidade
+- Java, Kotlin e Node.js, com foco em Arquitetura Hexagonal e Event-Driven Architecture (EDA)
+- Atuação em Fintech, HRtech, Insurtech, Comextech e Healthtech
 
-<!--
-**santo-ti/santo-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack
 
-Here are some ideas to get you started:
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Dados e mensageria
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Cloud e DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 🧩 Como trabalho
+
+- Migração de monolitos para microsserviços e arquiteturas orientadas a eventos (EDA)
+- Arquitetura hexagonal (Ports & Adapters) e Clean Architecture, em projetos greenfield e em sistemas legados
+- Documentação técnica estruturada: RFCs, ADRs, Design Docs e C4 Model
+- Aplicação de IA generativa ao ciclo de desenvolvimento: análise de contexto, testes, code review e refatoração
+- Soluções enxutas, com o mínimo de dependências necessárias
+- Código explícito em vez de "mágica" de framework, com estilo funcional quando faz sentido
+
+## 🎓 Formação
+
+- MBA em Arquitetura de Software, FIAP (2026)
+- MBA em Engenharia de Software Ágil, IGTI (2022)
+- Bacharelado em Ciência da Computação, UniRuy Wyden (2016)
+
+## 🗣️ Idiomas
+
+Português (nativo) · Inglês (nível profissional de trabalho)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonsantoti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonsanto08@gmail.com)
+
+## 📊 GitHub Stats
+
+[![User Stats](https://github-readme-stats-fast.vercel.app/api?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+## ⏱️ Atividade de código (WakaTime)
+
+<!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=santoDevX)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+<!--END_SECTION:waka-->
