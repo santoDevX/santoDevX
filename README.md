@@ -49,6 +49,17 @@
 - Soluções enxutas, com o mínimo de dependências necessárias
 - Código explícito em vez de "mágica" de framework, com estilo funcional quando faz sentido
 
+## 📊 GitHub Stats
+
+[![User Stats](https://github-readme-stats-fast.vercel.app/api?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+## ⏱️ WakaTime [WIP]
+
+<!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=santoDevX)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+<!--END_SECTION:waka-->
+
 ## 🎓 Formação
 
 - MBA em Arquitetura de Software, FIAP (2026)
@@ -63,14 +74,3 @@ Português (nativo) · Inglês (nível profissional de trabalho)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonsantoti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonsanto08@gmail.com)
-
-## 📊 GitHub Stats
-
-[![User Stats](https://github-readme-stats-fast.vercel.app/api?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Streak](https://github-readme-stats-fast.vercel.app/api/streak/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-## ⏱️ Atividade de código (WakaTime)
-
-<!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=santoDevX)](https://github.com/Pranesh-2005/github-readme-stats-fast)
-<!--END_SECTION:waka-->
