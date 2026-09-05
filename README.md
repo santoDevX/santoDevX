@@ -6,7 +6,7 @@
 - Java, Kotlin e Node.js, com foco em Arquitetura Hexagonal e Event-Driven Architecture (EDA)
 - Atuação em Fintech, HRtech, Insurtech, Comextech e Healthtech
 
-## 🛠️ Stack
+## 🛠️ Stacks e Frameworks
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -66,7 +66,7 @@
 - MBA em Engenharia de Software Ágil, IGTI (2022)
 - Bacharelado em Ciência da Computação, UniRuy Wyden (2016)
 
-## 🗣️ Idiomas
+## 🗣️ Idioma
 
 Português (nativo) · Inglês (nível profissional de trabalho)
 
