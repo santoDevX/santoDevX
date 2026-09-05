@@ -6,7 +6,7 @@
 - Java, Kotlin e Node.js, com foco em Arquitetura Hexagonal e Event-Driven Architecture (EDA)
 - Atuação em Fintech, HRtech, Insurtech, Comextech e Healthtech
 
-## 🛠️ Stacks e Frameworks
+## 🛠️ Stack
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
