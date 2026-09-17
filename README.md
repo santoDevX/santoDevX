@@ -6,6 +6,12 @@
 - Java, Kotlin e Node.js, com foco em Arquitetura Hexagonal e Event-Driven Architecture (EDA)
 - Atuação em vários contextos: Fintech, HRtech, Insurtech, Comextech e Healthtech
 
+## 🎓 Formação
+
+- MBA em Arquitetura de Software, FIAP (2026)
+- MBA em Engenharia de Software Ágil, IGTI (2022)
+- Bacharelado em Ciência da Computação, UniRuy Wyden (2016)
+
 ## 🛠️ Stack
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santoDevX&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
@@ -64,15 +70,9 @@
 [![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=@561ece04-1176-49d2-a022-b8c0129d107b)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 <!--END_SECTION:waka-->
 
-## 🎓 Formação
-
-- MBA em Arquitetura de Software, FIAP (2026)
-- MBA em Engenharia de Software Ágil, IGTI (2022)
-- Bacharelado em Ciência da Computação, UniRuy Wyden (2016)
-
 ## 🗣️ Idioma
 
-Português (nativo) · Inglês (nível profissional de trabalho)
+Português (nativo) · Inglês (A1)
 
 ## 📫 Contato
 
