@@ -1,10 +1,10 @@
 # Olá, eu sou o Santo 👋
 
-**Arquiteto de Software** · **Tech Lead** · **Engenheiro de Software Backend**
+**Tech Lead | Agentic Software Development | Senior Backend Software Engineer | Software Architect**
 
 - 12+ anos construindo e evoluindo sistemas de alta complexidade
 - Java, Kotlin e Node.js, com foco em Arquitetura Hexagonal e Event-Driven Architecture (EDA)
-- Atuação em Fintech, HRtech, Insurtech, Comextech e Healthtech
+- Atuação em vários contextos: Fintech, HRtech, Insurtech, Comextech e Healthtech
 
 ## 🛠️ Stack
 
